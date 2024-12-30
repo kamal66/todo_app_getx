@@ -20,7 +20,7 @@ A simple yet powerful To-Do application built using **Flutter** and **GetX** for
 
 | Light Theme                                                                                                                                                     | Dark Theme                                                                                                                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/kamal66/todo_app_getx/blob/main/screenshots/light_ss.gif?raw=true" width="250" height="auto" alt="Screenshot 1"/> | <img src="https://github.com/kamal66/flutter_live_location_tracking/blob/main/screenshots/dark_ss.png?raw=true" width="250" height="auto" alt="Screenshot 2"/> |
+| <img src="https://github.com/kamal66/todo_app_getx/blob/main/screenshots/light_ss.gif?raw=true" width="250" height="auto" alt="Screenshot 1"/> | <img src="https://github.com/kamal66/todo_app_getx/blob/main/screenshots/dark_ss.png?raw=true" width="250" height="auto" alt="Screenshot 2"/> |
 
 
 ## 🛠️ Technologies Used
@@ -96,7 +96,7 @@ lib/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app-getx.git
+   git clone https://github.com/kamal66/todo_app_getx.git
    cd todo-app-getx
    ```
 2. Install dependencies:
